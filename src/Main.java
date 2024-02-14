@@ -27,26 +27,9 @@ public class Main {
         }else {
             System.out.println( " пока сказать нечего ");
         }
-        ;
-        System.out.println( " Тест ");
-        int dayOfWeekNumber = 1;
-        if ( dayOfWeekNumber == 1){
-            System.out.println( " Понидельник ");
-        }else if ( dayOfWeekNumber == 2){
-            System.out.println( "вторник ");
-        }else if ( dayOfWeekNumber == 3){
-            System.out.println( " среда ");
-        }else if ( dayOfWeekNumber == 4 ){
-            System.out.println( "четверг ");
-        } else if (dayOfWeekNumber == 5) {
-            System.out.println( " пятница");
-        } else if (dayOfWeekNumber==6) {
-            System.out.println( " суббота ");
-        }else if (dayOfWeekNumber == 7){
-            System.out.println( " воскресенье ");
-        } else if (dayOfWeekNumber > 7  ) {
-            System.out.println( " такого дня не существует ");
-        };
+
+
+
         System.out.println( " Задача №1 ");
         int clientOs = 1;
         if ( clientOs == 0){
